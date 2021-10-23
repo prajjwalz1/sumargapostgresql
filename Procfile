@@ -1,0 +1,1 @@
+web: gunicorn sumargadarshan.wsgi --log-file -
