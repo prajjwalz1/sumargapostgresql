@@ -81,10 +81,10 @@ WSGI_APPLICATION = 'sumargadarshan.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.postgresql',
-        'NAME':'sumargadarsan',
-        'USER':'postgres',
-        'PASSWORD':'1234',
-        'HOST':'localhost,consignsolutions.herokuapp.com',
+        'NAME':'oxdmcuao',
+        'USER':'oxdmcuao',
+        'PASSWORD':'kIuqDm4kfYk4kXfrYxTZvueTAGVsa_YX',
+        'HOST':'satao.db.elephantsql.com',
         'PORT':'5432',
     }
 }
