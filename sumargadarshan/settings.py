@@ -80,12 +80,12 @@ WSGI_APPLICATION = 'sumargadarshan.wsgi.application'
 
 DATABASES = {
     'default': {
-        'ENGINE': 'django.db.backends.postgresql',
-        'NAME':'oxdmcuao',
-        'USER':'oxdmcuao',
-        'PASSWORD':'kIuqDm4kfYk4kXfrYxTZvueTAGVsa_YX',
-        'HOST':'satao.db.elephantsql.com',
-        'PORT':'5432',
+        'ENGINE': 'django.db.backends.postgresql_psycopg2',
+        'NAME': 'd3q3ol99e7fd67',
+        'USER': 'potcknbdtzwexw',
+        'PASSWORD': '7b6d195da7948ea3824a272ca57c1bf91226f72e0089b51d6c7943ee87dd4549',
+        'HOST': 'ec2-35-168-145-180.compute-1.amazonaws.com',
+        'PORT': '5432',
     }
 }
 import dj_database_url
